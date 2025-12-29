@@ -1,0 +1,50 @@
+# 亜咲花 – Eternal Star
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+例えば見上げた空に
+ふたりの星がいて
+Bright Memories 刻み込むように
+繋げたひとつの線に名前つけるんだ
+Walking on the way along the seaside
+足跡が物語る
+それが運命と...
+Ive been looking for your heart so long time
+時間には意味がある
+Olden Days 懐かしい世界
+並んだ星たちが空で巡り合うMelodies
+Ill promise you ETERNITY ずっと
+願いを込めてゆく
+星が落ちるその刹那
+Reflected on the water ふたり
+映し出した
+無数の願いを背負う
+あなたは星みたい
+Stay by my side 時間と共に
+いくつもの夢辿って朝へ帰るんだ
+Whisper in my heart I will let you know...
+溢れる涙が言う
+Shooting Stars そうきっと...
+揺れ動く想いには
+向かうべき意思がある
+Brand New Days 新しい世界
+並んだ星たちが空で惹かれ合うMelodies
+憧れは今もずっと
+It's My Life 繰り返す
+夜空が導く輪廻
+想いは時を超えて
+届くのかな
+重なり合うほどに
+眠りから覚めてゆく奇跡
+星空に書き残した
+夢が胸に響く
+未来に繋いでく
+夏の空に託して
+並んだ星たちが空で巡り合うMelodies
+Ill promise you ETERNITY ずっと
+願いを込めてゆく
+星が落ちるその刹那
+Reflected on the water ふたり
+映し出した
+```
