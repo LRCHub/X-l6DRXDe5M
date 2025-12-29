@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "Eternal Star",
+  "base_artist": "亜咲花",
+  "createdAt": "2025-12-29T03:53:18.970744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eternal Star",
+      "artist": "Asaka",
+      "has_synced": false,
+      "path": "select/01_Eternal_Star_Asaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eternal Star - English ver.",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/02_Eternal_Star_-_English_ver._Asaka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eternal Star English ver.",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/03_Eternal_Star_English_ver._Asaka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eternal Star English ver.",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/04_Eternal_Star_English_ver._Asaka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eternal Star",
+      "artist": "Asaka",
+      "has_synced": true,
+      "path": "select/05_Eternal_Star_Asaka.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eternal Star(TVSize)",
+      "artist": "Asaka",
+      "has_synced": false,
+      "path": "select/06_Eternal_Star(TVSize)_Asaka.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/07_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Star Sky",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/08_Star_Sky_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Country Star",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/09_Country_Star_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Someone Else's Star",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/10_Someone_Else's_Star_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/11_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Someone Else's Star (LP Version)",
+      "artist": "Bryan White",
+      "has_synced": true,
+      "path": "select/12_Someone_Else's_Star_(LP_Version)_Bryan_White.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/13_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Southern Star",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/14_Southern_Star_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/15_Twinkle,_Twinkle_Lucky_Star_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Twinkle, Twinkle Lucky Star (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/16_Twinkle,_Twinkle_Lucky_Star_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/17_Would_You_Catch_a_Falling_Star_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": false,
+      "path": "select/18_Would_You_Catch_a_Falling_Star_John_Anderson.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Black Star",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/19_Black_Star_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Star",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/20_Rock_'n'_Roll_Star_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Somewhere a Star Shines for Everyone",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/21_Somewhere_a_Star_Shines_for_Everyone_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Star In You",
+      "artist": "Wanting",
+      "has_synced": true,
+      "path": "select/22_Star_In_You_Wanting.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Absolute In Doubt (feat. Wicca Phase Springs Eternal)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/23_Absolute_In_Doubt_(feat._Wicca_Phase_Springs_Eternal)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Avoid (feat. Wicca Phase Springs Eternal & Døves)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/24_Avoid_(feat._Wicca_Phase_Springs_Eternal_&_Døves)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dark Alley (feat. Alice Glass & Wicca Phase Springs Eternal)",
+      "artist": "Lil Zubin",
+      "has_synced": false,
+      "path": "select/25_Dark_Alley_(feat._Alice_Glass_&_Wicca_Phase_Springs_Eternal)_Lil_Zubin.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Eternal Living",
+      "artist": "Lil Poppa feat. Polo G",
+      "has_synced": true,
+      "path": "select/26_Eternal_Living_Lil_Poppa_feat._Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Eternal Living (feat. Polo G)",
+      "artist": "Lil Poppa",
+      "has_synced": true,
+      "path": "select/27_Eternal_Living_(feat._Polo_G)_Lil_Poppa.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Open Thunder Eternal Slumber",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/28_Open_Thunder_Eternal_Slumber_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sly - Eternal Feedback Dub",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/29_Sly_-_Eternal_Feedback_Dub_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Sly (Eternal Feedback Dub)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/30_Sly_(Eternal_Feedback_Dub)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Home on Time (feat. Wicca Phase Springs Eternal)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/31_Home_on_Time_(feat._Wicca_Phase_Springs_Eternal)_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Doom Crossing: Eternal Horizons (feat. Natalia Natchan)",
+      "artist": "The Chalkeaters feat. Natalia Natchan",
+      "has_synced": true,
+      "path": "select/32_Doom_Crossing__Eternal_Horizons_(feat._Natalia_Natchan)_The_Chalkeaters_feat._Natalia_Natchan.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Eternal",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/33_Eternal_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Eternal Glory",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/34_Eternal_Glory_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Eternal Idol",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/35_Eternal_Idol_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Eternal Snow",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/36_Eternal_Snow_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/37_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eternal Star",
+      "artist": "亜咲花",
+      "has_synced": false,
+      "path": "select/pl_01_Eternal_Star_亜咲花.txt"
+    }
+  ]
+}
